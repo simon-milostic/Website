@@ -1,0 +1,5 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "html.autoClosingTags": true,
+    "r.lsp.promptToInstall": false
+}
