@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "Jost";
+    src: url(../../Downloads/Jost/Jost-VariableFont_wght.ttf) format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+body {
+    font-family: "Jost", sans-serif;
+    margin: 0px 5em 1em 5em;
+    color: #F4F1EA;
+    background-color: #242424;
+}
+
+h1 {
+    font-size: 43px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    background-color: #F5F5F5;
+    margin-top: 0;
+    padding: 0 5em;
+    width: 100%;
+    margin-left: -5em;
+}
+
+.navbar li input {
+    border: none;
+    background: transparent;
+}
+
+.navbar li {
+    margin: 0 0.75em;
+    transition: 0.5s;
+    padding: 1.2em 1em;
+    background-color: transparent;
+    text-align: center;
+}
+
+.navbar a {
+    position: relative;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.navbar a::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    left: 0;
+    bottom: -10px;
+    width: 0;
+    transition: width 0.3s ease-in-out;
+    background-color: #6b9080;
+}
+
+.navbar a:hover::after {
+    width: 100%;
+}
+
+.navbar li a:hover {
+    transform: scale(1.1);
+}
+
+.navbar li:first-child {
+    flex: 0 0 35%;
+    justify-content: flex-start;
+    margin-right: auto;
+    align-items: center;
+    width: 300px;
+
+}
+
+.navbar .search {
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+    border-radius: 10px;
+    background-color: #6b9080;
+    margin-right: auto;
+    padding: 3px 8px;
+    max-width: 180px;
+    font-size: 10px;
+    height: 45px;
+
+}
+
+input {
+    height: auto;
+}
+
+.search img {
+    width: 20px;
+    height: 20px;
+    transition: 0.3s;
+}
