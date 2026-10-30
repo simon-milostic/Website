@@ -4,78 +4,71 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../CSS/style.css">
+    <script type="module" src="../Code/JavaScript/script.js"></script>
     <title>Document</title>
 </head>
 
 <body>
     
-    <nav class="navbar">
+   <nav class="navbar">
         <div class="logo">
-            <img src="../Media/images.png" alt="">
-        </div>
-
-        <div class="search">
-            <img src="../Media/search.png" alt="">
-            <input type="text" placeholder="Search">
+            <a href="main.html"><img src="../Media/letter-e-vector-logo-design.png" alt=""></a>
         </div>
 
         <ul>
-            <li><a href="main.html"><strong>Home</strong></a></li>
-            <li><a href="graphs.html"><strong>Graphs</strong></a></li>
-            <li><a href="documents.html"><strong>Documents</strong></a></li>
-            <li><a href="misc.html"><strong>Contribute</strong></a></li>
-            <li><a href="about.html"><strong>About</strong></a></li>
-            <li><a href="requests.html"><strong>Reach Out</strong></a></li>
+            <li><a href="main.html"><strong>HOME</strong></a></li>
+            <li><a href="graphs.html"><strong>GRAPHS</strong></a></li>
+            <li><a href="documents.html"><strong>DOCUMENTS</strong></a></li>
+            <li><a href="misc.html"><strong>CONTRIBUTE</strong></a></li>
+            <li><a href="about.html"><strong>ABOUT</strong></a></li>
+            <li><a href="requests.html"><strong>REACH OUT</strong></a></li>
         </ul>
 
         <div class="login">
+             <div class="search">
+                <img src="../Media/search.png" alt="">
+                <p class="dropdown_search">Search</p> 
+
+                    <div class="dropdown_search_content">
+                        <input type="text" placeholder="Search...">
+                    </div>
+
+            </div>
+
             <button id="b_login"><span>Log In</span></button>
-            <button id="b_subscribe"><span>Subscribe</span></button>
+            <button id="b_subscribe"><span>Sign Up</span></button>
+
         </div>
+
     </nav>
 
-   <main>
+   <mains>
        
-       <h1>Graphs</h1>
+    <div id="g_container_1">
 
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ea hic dolores modi praesentium officia. Ab quas atque minima molestias eos, voluptatibus debitis nesciunt,
-           et alias id sit nobis consectetur eum.</p>
-       
-   </main>
+        <div class="intro intro--new">
+            <h1>WELCOME TO THE GRAPHS PAGE</h1>
+            <p>Here, you're able to analyse, study and change the presented graphs. In addition...</p>
+        </div>
+
+    </div>
+
+    <div id="g_container_2">
+
+        <article id="g_box_1"></article>
+
+        <article id="g_box_2"></article>
+
+        <article id="g_box_3"></article>
+
+        <article id="g_box_4"></article>
+
+        <article id="g_box_5"></article>
+
+    </div>
+
+
+   </mains>
 
 </body>
 </html>

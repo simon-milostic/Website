@@ -1,0 +1,930 @@
+{
+  "USA": [
+    {
+      "year": 2001,
+      "debt_gdp": 53.5
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 55.9
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 59
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 66.4
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 65.8
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 64.5
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 65
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 73.9
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 87.1
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 95.7
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 100
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 103.7
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 105
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 105
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 105.5
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 107.5
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 106.5
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 107.7
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 108.8
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 132.6
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 125
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 119.2
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 120
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 122.3
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 124.4
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 126.8
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 128.7
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 132.3
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 136.4
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 140.7
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 145
+    }
+  ],
+  "GER": [
+    {
+      "year": 1991,
+      "debt_gdp": 39
+    },
+    {
+      "year": 1992,
+      "debt_gdp": 41.4
+    },
+    {
+      "year": 1993,
+      "debt_gdp": 45.1
+    },
+    {
+      "year": 1994,
+      "debt_gdp": 47.5
+    },
+    {
+      "year": 1995,
+      "debt_gdp": 54.9
+    },
+    {
+      "year": 1996,
+      "debt_gdp": 57.7
+    },
+    {
+      "year": 1997,
+      "debt_gdp": 58.8
+    },
+    {
+      "year": 1998,
+      "debt_gdp": 59.4
+    },
+    {
+      "year": 1999,
+      "debt_gdp": 60.3
+    },
+    {
+      "year": 2000,
+      "debt_gdp": 59.2
+    },
+    {
+      "year": 2001,
+      "debt_gdp": 58.1
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 59.8
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 63.3
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 65
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 67.1
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 66.4
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 63.7
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 65.2
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 72.4
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 81
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 78.5
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 79.8
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 77.4
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 74.4
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 71
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 68.1
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 63.7
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 60.5
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 58.3
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 67.5
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 67.4
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 64.1
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 61.8
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 61.4
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 62.7
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 64.6
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 66.9
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 69.3
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 71.5
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 73.6
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 75.6
+    }
+  ],
+  "JPN": [
+    {
+      "year": 1980,
+      "debt_gdp": 41.4
+    },
+    {
+      "year": 1981,
+      "debt_gdp": 45.8
+    },
+    {
+      "year": 1982,
+      "debt_gdp": 50.1
+    },
+    {
+      "year": 1983,
+      "debt_gdp": 55.1
+    },
+    {
+      "year": 1984,
+      "debt_gdp": 56.9
+    },
+    {
+      "year": 1985,
+      "debt_gdp": 59.2
+    },
+    {
+      "year": 1986,
+      "debt_gdp": 64.2
+    },
+    {
+      "year": 1987,
+      "debt_gdp": 65.7
+    },
+    {
+      "year": 1988,
+      "debt_gdp": 62.4
+    },
+    {
+      "year": 1989,
+      "debt_gdp": 56.9
+    },
+    {
+      "year": 1990,
+      "debt_gdp": 54.8
+    },
+    {
+      "year": 1991,
+      "debt_gdp": 54.1
+    },
+    {
+      "year": 1992,
+      "debt_gdp": 57.9
+    },
+    {
+      "year": 1993,
+      "debt_gdp": 63.2
+    },
+    {
+      "year": 1994,
+      "debt_gdp": 73.3
+    },
+    {
+      "year": 1995,
+      "debt_gdp": 80.7
+    },
+    {
+      "year": 1996,
+      "debt_gdp": 85.3
+    },
+    {
+      "year": 1997,
+      "debt_gdp": 91.3
+    },
+    {
+      "year": 1998,
+      "debt_gdp": 101.6
+    },
+    {
+      "year": 1999,
+      "debt_gdp": 113.5
+    },
+    {
+      "year": 2000,
+      "debt_gdp": 118.5
+    },
+    {
+      "year": 2001,
+      "debt_gdp": 126.8
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 134.6
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 140.2
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 148.8
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 153.4
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 152.1
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 150.4
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 153.6
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 172.9
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 178.6
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 190.6
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 197.1
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 201.2
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 203.6
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 200.1
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 202.1
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 203.1
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 203.7
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 206.3
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 228.8
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 222.6
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 228
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 220.1
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 213.6
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 204.8
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 199.4
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 196.4
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 193.8
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 191.5
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 190.1
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 188.9
+    }
+  ],
+  "IND": [
+    {
+      "year": 1991,
+      "debt_gdp": 76.7
+    },
+    {
+      "year": 1992,
+      "debt_gdp": 78.8
+    },
+    {
+      "year": 1993,
+      "debt_gdp": 78.3
+    },
+    {
+      "year": 1994,
+      "debt_gdp": 74.8
+    },
+    {
+      "year": 1995,
+      "debt_gdp": 70.9
+    },
+    {
+      "year": 1996,
+      "debt_gdp": 67.1
+    },
+    {
+      "year": 1997,
+      "debt_gdp": 69
+    },
+    {
+      "year": 1998,
+      "debt_gdp": 69.3
+    },
+    {
+      "year": 1999,
+      "debt_gdp": 71.3
+    },
+    {
+      "year": 2000,
+      "debt_gdp": 74.9
+    },
+    {
+      "year": 2001,
+      "debt_gdp": 80.1
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 84.3
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 85.9
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 84.9
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 82.4
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 77.9
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 75.4
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 74.3
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 72.7
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 67.7
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 68.7
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 68.1
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 68
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 67.6
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 69.7
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 69.7
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 70.7
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 71.6
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 76.5
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 90.4
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 85.5
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 84.4
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 84.7
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 84.8
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 84.3
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 83.1
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 81.3
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 79.8
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 78.4
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 77
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 75.1
+    }
+  ],
+  "BRA": [
+    {
+      "year": 2000,
+      "debt_gdp": 62.2
+    },
+    {
+      "year": 2001,
+      "debt_gdp": 67.3
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 76.1
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 71.5
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 68
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 67
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 64.6
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 63
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 61.4
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 64.7
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 62.4
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 60.6
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 61.6
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 59.6
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 61.6
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 71.7
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 77.4
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 82.7
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 84.8
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 87.1
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 96
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 88.9
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 83.9
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 84
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 87
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 93.3
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 97
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 99.3
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 101.3
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 103.2
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 104.5
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 105.3
+    }
+  ],
+  "ZFA": [
+    {
+      "year": 2000,
+      "debt_gdp": 37.9
+    },
+    {
+      "year": 2001,
+      "debt_gdp": 38
+    },
+    {
+      "year": 2002,
+      "debt_gdp": 31.8
+    },
+    {
+      "year": 2003,
+      "debt_gdp": 31.5
+    },
+    {
+      "year": 2004,
+      "debt_gdp": 30.7
+    },
+    {
+      "year": 2005,
+      "debt_gdp": 29.6
+    },
+    {
+      "year": 2006,
+      "debt_gdp": 28
+    },
+    {
+      "year": 2007,
+      "debt_gdp": 24.3
+    },
+    {
+      "year": 2008,
+      "debt_gdp": 24
+    },
+    {
+      "year": 2009,
+      "debt_gdp": 27
+    },
+    {
+      "year": 2010,
+      "debt_gdp": 31.2
+    },
+    {
+      "year": 2011,
+      "debt_gdp": 34.7
+    },
+    {
+      "year": 2012,
+      "debt_gdp": 37.4
+    },
+    {
+      "year": 2013,
+      "debt_gdp": 40.4
+    },
+    {
+      "year": 2014,
+      "debt_gdp": 43.3
+    },
+    {
+      "year": 2015,
+      "debt_gdp": 45.2
+    },
+    {
+      "year": 2016,
+      "debt_gdp": 47.1
+    },
+    {
+      "year": 2017,
+      "debt_gdp": 48.6
+    },
+    {
+      "year": 2018,
+      "debt_gdp": 51.5
+    },
+    {
+      "year": 2019,
+      "debt_gdp": 56.1
+    },
+    {
+      "year": 2020,
+      "debt_gdp": 68.9
+    },
+    {
+      "year": 2021,
+      "debt_gdp": 68.8
+    },
+    {
+      "year": 2022,
+      "debt_gdp": 70.7
+    },
+    {
+      "year": 2023,
+      "debt_gdp": 73.2
+    },
+    {
+      "year": 2024,
+      "debt_gdp": 76
+    },
+    {
+      "year": 2025,
+      "debt_gdp": 78.4
+    },
+    {
+      "year": 2026,
+      "debt_gdp": 78
+    },
+    {
+      "year": 2027,
+      "debt_gdp": 78.1
+    },
+    {
+      "year": 2028,
+      "debt_gdp": 78.8
+    },
+    {
+      "year": 2029,
+      "debt_gdp": 79.5
+    },
+    {
+      "year": 2030,
+      "debt_gdp": 79.7
+    },
+    {
+      "year": 2031,
+      "debt_gdp": 79.8
+    }
+  ]
+}
